@@ -32,3 +32,14 @@ sda
 ├─sda3 ext4   1.0         37bfadda-920f-4e04-aeb8-48707b26741d   92.7G    39% /home
 ├─sda4 vfat   FAT32       DE98-A700
 └
+
+
+无需 root 的方法。
+
+`ls -l /dev/disk/by-uuid/` 
+
+
+需 root 单盘的方法
+
+`sudo blkid /dev/sda` 
+
