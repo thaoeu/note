@@ -9,8 +9,11 @@ sftp (iperf Srch Cin 2.29Gbits/s)>< 2.37Gbits/sec
 	ssd50 > ssd25
 		478Mb/s 56MB/s
 
-		```
+```
 *太慢了，只有千兆速度。* 
+
+千兆连接，ArchTogo(c) LkArch(s)
+933 Mbits/sec
 
 
 # 网络挂载方式
@@ -34,3 +37,21 @@ sftp (iperf Srch Cin 2.29Gbits/s)>< 2.37Gbits/sec
 ## smb
 
 
+LkArch >> Lkwin 
+970Mbps
+
+LkArch >> ArchToGo
+116MiB/s
+
+ArchToGo >> LkArch
+rx:117MiB/s
+
+## git
+
+LkArch >> LkWin(作gogs服务器)
+
+
+Writing objects:  66% (2/3), 454.17 MiB | 26.48 MiB/
+240Mbps
+
+很慢啊。
