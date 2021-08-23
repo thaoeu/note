@@ -49,9 +49,25 @@ rx:117MiB/s
 ## git
 
 LkArch >> LkWin(作gogs服务器)
+#gitea
+下载
+26.09MiB/s
+upload
+190Mbps
 
-
+# gogs
 Writing objects:  66% (2/3), 454.17 MiB | 26.48 MiB/
 240Mbps
 
 很慢啊。
+
+1022
+
+
+
+very
+Nuc >> 8.131
+819KB/s
+
+
+30M
